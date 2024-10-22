@@ -169,13 +169,11 @@ References Are Found in Upon Request.
 
 # SOCIAL ACCOUNTS
 
-❏ https://www.linkedin.com/in/Developer-Taher/
+❏ [GitHub](https://www.linkedin.com/in/Developer-Taher/)
 
-[زور موقع GitHub](https://github.com)
+❏ [linkedIn](https://github.com/Developer-Taher)
 
-❏ https://github.com/Developer-Taher
-
-❏ https://twitter.com/Developer_Taher
+❏ [twitter](https://x.com/Developer_Taher)
 
 
 
