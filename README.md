@@ -4,7 +4,36 @@ Kuwait - Kuwait
 +96565596121
 Zidan202066@gmail.com
 
+# About us
+Working with other developers to build technical solutions & complete projects to budgetary and quality requirements .
+Also involved in requirements gathering and customer training
 
+Duties: 
+•	Development of Java interfaces & Configuration Management of the source code
+•	Working with users to establish requirements and determine priorities.
+•	Meeting client’s face to face at their offices. 
+•	Developing new applications, components & functionality to existing systems
+•	Developing new functionalities, both back-end and front-end.
+•	Analyzing data and conducting compatibility and quality assurance testing
+•	Identifying & addressing conflicts with newer client-implemented software. Investigating 
+•	Applying the concept of single sign-on .
+alternate configurations & implementing better solutions. Designing, developing, testing & configuring for a custom pre-authenticated scenario.
+
+
+KEY SKILLS AND COMPETENCIES 
+
+•	Ability to develop creative solutions for complex problems.
+•	Excellent team worker with strong coaching and mentoring skills.
+•	SQL, PL/SQL query writing skills (by using TOAD) Stored Procedures and Triggers.
+•	Experience in Java, J2EE and ADF based systems development, which includes System Analysis, System Designing, Programming, Debugging, Defect fixing, Testing, Application Performance Analysis and Deployment,.
+•	Experience with ADF Skinning, Rich Faces components, Faces, Task Flow, and Business Components. 
+•	Good knowledge of JDBC, MVC.
+•	Good understanding on Oracle ADF 11g&12c Architecture
+•	Experience with Oracle Weblogic Server 11g&12c
+•	Good working experience on the following technologies and tools:
+o	JDeveloper 11g, JDeveloper 12c, TOAD,Oracle SQL Developer, Jasper report,reports builder and forms builder.
+Finally Learn Flutter Development Cross-Platform Mobile Application 
+o Programming Languages (Java, SQL/PL-SQL,HTML\CSS\Java Script\Dart\flutter )
 
 # EXPERIENCE
 
