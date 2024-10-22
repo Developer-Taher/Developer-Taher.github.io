@@ -8,7 +8,7 @@ Zidan202066@gmail.com
 Working with other developers to build technical solutions & complete projects to budgetary and quality requirements .
 Also involved in requirements gathering and customer training
 
-Duties: 
+#  Duties: 
 •	Development of Java interfaces & Configuration Management of the source code
 •	Working with users to establish requirements and determine priorities.
 •	Meeting client’s face to face at their offices. 
@@ -142,8 +142,6 @@ JAN 2016 - FEP 2017
 ❏ Maintaining and optimizing old projects.
 ❏ Developing new solutions using Forms & reports.
 ❏ Working on some projects with different business and
-
-# technologies
 
 # EDUCATION
 
