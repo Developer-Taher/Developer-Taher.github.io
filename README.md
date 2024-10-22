@@ -1,8 +1,8 @@
 # Developer-Taher.github.io
-Taher Zidane
-Kuwait - Kuwait
-+96565596121
-Zidan202066@gmail.com
+# Taher Zidane
+# Kuwait - Kuwait
+# +96565596121
+# Zidan202066@gmail.com
 
 
 
