@@ -133,79 +133,18 @@ References Are Found in Upon Request.
 
 
 
-
-
-
 # LANGUAGES
 
-❏ Arabic & English.
-❏ Arabic Mother Tongue.
+❏ Arabic Mother Tongue .
+❏ English .
 
 # SOCIAL ACCOUNTS
 
-❏ https://www.linkedi
-n.com/in/Developer
--Taher/
+❏ https://www.linkedin.com/in/Developer-Taher/
 
-❏ https://github.com/
-Developer-Taher
+❏ https://github.com/Developer-Taher
 
-❏ https://twitter.com/
-Developer_Taher
-
-
-
-flutter angela
-
-
-
-
-
-
-Oracle Fusion Middleware 11g: Build Applications with ADF I
-
-50121458
-
-Taher Reyad
-
-discobot2 2018 فبرایر
-
-Zidan202066
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+❏ https://twitter.com/Developer_Taher
 
 
 
