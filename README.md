@@ -8,7 +8,7 @@ Zidan202066@gmail.com
 Working with other developers to build technical solutions & complete projects to budgetary and quality requirements .
 Also involved in requirements gathering and customer training
 
-**Duties: **
+**Duties:**
 •	Development of Java interfaces & Configuration Management of the source code
 •	Working with users to establish requirements and determine priorities.
 •	Meeting client’s face to face at their offices. 
@@ -20,7 +20,7 @@ Also involved in requirements gathering and customer training
 alternate configurations & implementing better solutions. Designing, developing, testing & configuring for a custom pre-authenticated scenario.
 
 
-** KEY SKILLS AND COMPETENCIES **
+**KEY SKILLS AND COMPETENCIES**
 
 •	Ability to develop creative solutions for complex problems.
 •	Excellent team worker with strong coaching and mentoring skills.
@@ -78,6 +78,30 @@ Store).
 ❏ Technologies: Dart, Flutter, Firebase, Slack, VS Code,
 Notion, android studio.
 
+**Marine Logistic, Dumyat -Oracle Developer**
+NOV 2017 - MAR 2018
+
+❏ Supported customers with online billing and account
+issues.
+
+❏ Resolved customer complaints and concerns.
+❏ Informed customers about issues of resolution progress.
+
+**Anlage, Cairo - Technical Support**
+FEP 2017 - OCT 2017
+
+❏ Managed based level IT support to consumer clients.
+❏ Worked with Customers having data connectivity issues.
+❏ Maintaining and optimizing old projects.
+
+**Turbo Solution, Cairo - Oracle Developer**
+JAN 2016 - FEP 2017
+
+❏ Maintaining and optimizing old projects.
+❏ Developing new solutions using Forms & reports.
+❏ Working on some projects with different business and
+
+
 # LANGUAGES & TECHNOLOGIES
 
 Flutter; Dart; Firebase; Git; GitHub;
@@ -120,28 +144,6 @@ ADF12C
 
 ❏
 
-**Marine Logistic, Dumyat -Oracle Developer**
-NOV 2017 - MAR 2018
-
-❏ Supported customers with online billing and account
-issues.
-
-❏ Resolved customer complaints and concerns.
-❏ Informed customers about issues of resolution progress.
-
-**Anlage, Cairo - Technical Support**
-FEP 2017 - OCT 2017
-
-❏ Managed based level IT support to consumer clients.
-❏ Worked with Customers having data connectivity issues.
-❏ Maintaining and optimizing old projects.
-
-**Turbo Solution, Cairo - Oracle Developer**
-JAN 2016 - FEP 2017
-
-❏ Maintaining and optimizing old projects.
-❏ Developing new solutions using Forms & reports.
-❏ Working on some projects with different business and
 
 # EDUCATION
 
