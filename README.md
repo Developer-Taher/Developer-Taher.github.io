@@ -169,6 +169,8 @@ References Are Found in Upon Request.
 
 ❏ https://www.linkedin.com/in/Developer-Taher/
 
+[زور موقع GitHub](https://github.com)
+
 ❏ https://github.com/Developer-Taher
 
 ❏ https://twitter.com/Developer_Taher
