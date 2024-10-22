@@ -49,7 +49,7 @@ Store).
 ❏ Technologies: Dart, Flutter, Firebase, Slack, VS Code,
 Notion, android studio.
 
-LANGUAGES & TECHNOLOGIES
+# LANGUAGES & TECHNOLOGIES
 
 Flutter; Dart; Firebase; Git; GitHub;
 Slack; HTML; CSS; Javascript; SQL;
@@ -61,7 +61,7 @@ Brackets; Toad; Netbeans;
 JDeveloper; Eclipse;
 Azure Portal;
 
-PERSONAL INFORMATION
+# PERSONAL INFORMATION
 
 ❏ Marital Status: Married
 ❏ Military service: Finished
@@ -69,7 +69,7 @@ PERSONAL INFORMATION
 ❏ Kuwait Driving license
 ❏ D.O.B: Asyut SEP-1993
 
-COURSES
+# COURSES
 
 ❏ Oracle Developer
 ❏ Fusion Middleware
@@ -114,9 +114,9 @@ JAN 2016 - FEP 2017
 ❏ Developing new solutions using Forms & reports.
 ❏ Working on some projects with different business and
 
-technologies
+# technologies
 
-EDUCATION
+# EDUCATION
 
 BSc. of Computers and Information, Institute of Computers
 and Information, Ain Shams University.
@@ -136,12 +136,12 @@ References Are Found in Upon Request.
 
 
 
-LANGUAGES
+# LANGUAGES
 
 ❏ Arabic & English.
 ❏ Arabic Mother Tongue.
 
-SOCIAL ACCOUNTS
+# SOCIAL ACCOUNTS
 
 ❏ https://www.linkedi
 n.com/in/Developer
@@ -167,8 +167,6 @@ Oracle Fusion Middleware 11g: Build Applications with ADF I
 50121458
 
 Taher Reyad
-
-في اعتراف بأتمام ناجح للدرس التعلیمي للاعضاء الجدد
 
 discobot2 2018 فبرایر
 
